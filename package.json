@@ -1,0 +1,15 @@
+{
+  "name": "fff-graphql-example-goodreads",
+  "version": "1.0.0",
+  "main": "serve.js",
+  "repository": "https://github.com/KasparIsSo/fff-graphql-example-goodreads.git",
+  "author": "KasparIsSo <kasparso421@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "4.16.3",
+    "express-graphql": "0.6.12",
+    "graphql": "0.13.2",
+    "xml2js": "0.4.19"
+  }
+}
